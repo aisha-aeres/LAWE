@@ -2,6 +2,11 @@ body {
   padding-top: 54px;
 }
 
+#map, #map2 {
+    height: 400px;
+    width: 100%;
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
@@ -183,5 +188,3 @@ justify-content: center;
 .form-control {
   font-family: 'Roboto', sans-serif;
 }
-
-#map { height: 300px; }
